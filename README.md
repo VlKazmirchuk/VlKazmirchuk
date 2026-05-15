@@ -8,7 +8,7 @@ Building tools that turn fragmented financial data into structured, decision-rea
 
 -  **[invoice-booking-pipeline](https://github.com/VlKazmirchuk/invoice-booking-pipeline)** — Automated PDF invoice extraction and SAP-ready booking pipeline.
 -  **[AR-risk](https://github.com/VlKazmirchuk/AR-risk)** — Debtor scoring and cash flow forecasting on top of SAP data.
--  **[M&A-synergy-NLP-text-analysis](https://github.com/VlKazmirchuk/M-A-synergy-NLP-text-analysis)** — NLP analysis of M&A deal documents using the Loughran-McDonald financial dictionary to score tone, certainty, and specificity.
+-  **[M&A-synergy-NLP-text-analysis](https://github.com/VlKazmirchuk/M-A-synergy-NLP-text-analysis)** — Testing whether linguistic signals in M&A communications (tone, certainty, specificity, scored against the Loughran-McDonald dictionary) correlate with realized synergies.
 
 ---
 
