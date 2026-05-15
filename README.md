@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Vladyslav 👋
 
-<!--
-**VlKazmirchuk/VlKazmirchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building tools that turn fragmented financial data into structured, decision-ready output, so margin visibility, risk exposure, and data quality stop being best-effort and start being measurable.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  What I'm working on
+
+-  **[invoice-booking-pipeline](https://github.com/VlKazmirchuk/invoice-booking-pipeline)** — Automated PDF invoice extraction and SAP-ready booking pipeline.
+-  **[AR-risk](https://github.com/VlKazmirchuk/AR-risk)** — Debtor scoring and cash flow forecasting on top of SAP data.
+-  **[M&A-synergy-NLP-text-analysis](https://github.com/VlKazmirchuk/M-A-synergy-NLP-text-analysis)** — NLP analysis of M&A deal documents using the Loughran-McDonald financial dictionary to score tone, certainty, and specificity.
+
+---
+
+##  Tech I work with
+
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Document & data processing**
+![pdfplumber](https://img.shields.io/badge/-pdfplumber-1a1a1a?style=flat-square)
+![invoice2data](https://img.shields.io/badge/-invoice2data-1a1a1a?style=flat-square)
+![openpyxl](https://img.shields.io/badge/-openpyxl-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Finance & systems**
+![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+---
+
+##  What I care about
+
+Helping finance teams forecast with less noise and manage risk with more leverage. Driver-based forecasting that holds up under scrutiny, variance analysis that catches drift early, and risk work that's quantified, owned, and mitigated — not just logged.
+
+
+---
+
+##  GitHub stats
+
+![Vladyslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=VlKazmirchuk&show_icons=true&hide_border=true&include_all_commits=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VlKazmirchuk&layout=compact&hide_border=true)
+
+---
