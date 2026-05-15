@@ -20,9 +20,10 @@ Building tools that turn fragmented financial data into structured, decision-rea
 
 **Document & data processing**
 ![pdfplumber](https://img.shields.io/badge/-pdfplumber-1a1a1a?style=flat-square)
-![invoice2data](https://img.shields.io/badge/-invoice2data-1a1a1a?style=flat-square)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![openpyxl](https://img.shields.io/badge/-openpyxl-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 
 
 ---
