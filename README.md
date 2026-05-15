@@ -24,9 +24,6 @@ Building tools that turn fragmented financial data into structured, decision-rea
 ![openpyxl](https://img.shields.io/badge/-openpyxl-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Finance & systems**
-![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ---
 
