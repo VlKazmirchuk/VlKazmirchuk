@@ -37,9 +37,3 @@ Helping finance teams forecast with less noise and manage risk with more leverag
 
 ---
 
-##  GitHub stats
-
-![Vladyslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=VlKazmirchuk&show_icons=true&hide_border=true&include_all_commits=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VlKazmirchuk&layout=compact&hide_border=true)
-
----
